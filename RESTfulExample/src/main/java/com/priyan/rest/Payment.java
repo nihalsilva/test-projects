@@ -15,6 +15,10 @@ public class Payment {
 	@POST
 	@Path("/{msisdn}/transactions/amount")
 	public Response paymentChargeServices(@PathParam("msisdn") String msisdn) {
+
+
+
+
 		
 		String responseString = "{\n" +
 				"	\"amountTransaction\": {\n" +
