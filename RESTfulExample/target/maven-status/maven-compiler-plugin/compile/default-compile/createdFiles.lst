@@ -1,0 +1,6 @@
+com\priyan\rest\Payment.class
+com\priyan\rest\SMSMessaging.class
+com\priyan\rest\CustomerInfo.class
+com\priyan\rest\HelloWorldService.class
+com\priyan\rest\Wallet.class
+com\priyan\rest\Provisioning.class
