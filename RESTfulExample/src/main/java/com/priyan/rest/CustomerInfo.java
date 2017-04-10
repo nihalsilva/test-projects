@@ -64,8 +64,6 @@ public class CustomerInfo {
 		
 		
 		
-		
-
 		String responseString = "{\n" + "  \"customer\": {\n" + "    \"msisdn\": \"123456789\",\n"
 				+ "    \"imsi\": \"0987654321\",\n" + "    \"title\": \"Mr\",\n" + "    \"firstName\": \"Bilbo\",\n"
 				+ "    \"lastName\": \"Baggins\",\n" + "    \"dob\": \"21/10/2006\",\n"
